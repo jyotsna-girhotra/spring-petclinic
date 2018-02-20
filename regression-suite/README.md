@@ -5,7 +5,7 @@ This repository is used by [adop-cartridge-java](https://github.com/Accenture/ad
 # License
 Please view [license information](LICENSE.md) for the software contained on this image.
 
-## Documentation
+## Documentation Changed
 Documentation will be captured within this README.md and this repository's Wiki.
 
 ## Issues
