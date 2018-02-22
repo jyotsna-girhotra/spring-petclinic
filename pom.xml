@@ -44,8 +44,8 @@
 
         <cobertura.version>2.7</cobertura.version>
         
-        <!-- Added maven deploy version 
-        <maven-deploy-plugin.version>2.8.2</maven-deploy-plugin.version> -->
+        <!-- Added maven deploy version -->
+        <maven-deploy-plugin.version>2.8.2</maven-deploy-plugin.version>
 
     </properties>
 
